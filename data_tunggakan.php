@@ -101,7 +101,7 @@ if (isset($_GET['error'])) $error_message = $_GET['error'];
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Data Tunggakan - PDAM Tirta Musi</title>
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/CSS/style.css">
     <style>
         .status-badge.status-menunggu-konfirmasi {
             background: #fff3cd;
@@ -279,4 +279,5 @@ if (isset($_GET['error'])) $error_message = $_GET['error'];
     </script>
     <script src="assets/js/script.js"></script>
 </body>
+
 </html>
